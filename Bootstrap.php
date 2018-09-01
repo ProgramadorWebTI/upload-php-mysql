@@ -1,2 +1,5 @@
 <?php
 
+define("ROOT", $_SERVER['DOCUMENT_ROOT'].DIRECTORY_SEPARATOR."upload-php-mysql". DIRECTORY_SEPARATOR);
+
+
