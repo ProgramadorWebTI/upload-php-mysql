@@ -6,5 +6,8 @@
         "files" : [
             "Bootstrap.php"
         ]
+    },
+    "require": {
+        "codeguy/upload": "^1.3"
     }
 }
